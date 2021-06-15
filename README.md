@@ -17,6 +17,10 @@
 </a>
 
 ## Stats
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fer-ay%2F&count_bg=%23862348&title_bg=%23292929&icon=codacy.svg&icon_color=%23E5D0D0&title=hits+daily%2Ftotal&edge_flat=false)](https://hits.seeyoufarm.com)
+
+since 15.06.2021
+
 ![Ayse's GitHub stats](https://github-readme-stats.vercel.app/api?username=er-ay&show_icons=true&theme=synthwave) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=er-ay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
