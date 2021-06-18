@@ -2,7 +2,7 @@
 - I'm an Electrical Electronics Engineer who enjoys to learn machine learning algorithms and math behind them. ⚡
 - I'm interested in Computer Vision as subset of DL. 👁
 - My repositories are not big steps for AI but they are steps for me to be an ML Engineer. 🦾
-- Kaggle Contributer. 👩‍💻
+- Kaggle Contributor. 👩‍💻
 
 
 ## Social
