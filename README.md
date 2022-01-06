@@ -1,5 +1,5 @@
 ### About Me
-I'm an electrical and electronics engineer who enjoys to code and watch it worked. Lately, I've been doing it via python and implementing machine learning algorithms. 
+I'm an electrical and electronics engineer who enjoys to code and watch it worked. Lately, I've been doing it with python and implementing machine learning algorithms. 
 
 
 ### Tools & technologies you can find in this profile
