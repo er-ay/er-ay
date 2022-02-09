@@ -3,8 +3,8 @@
 
 - I'm a data science bootcamp student and my goal is to evolve this process into a professional occupy.
 - I love to contribute in any way to communities so, now I'm volunteer assistant @Patika.dev in a programme that we have meetings, weekly code assessments, interview simulations and socialize 🙌🏻
-- Currently, I'm studying sequence models.
-
+- Also in a beta tester team that helps to make [Patika](https://patika.dev) better! ❤️
+- Currently, I'm studying sequence models, 🤗 transformers, and hopeful to learn PyTorch after these.
 
 ![](https://media.giphy.com/media/VHMuWhPNHPrXgNvEkA/giphy-downsized.gif)
 
