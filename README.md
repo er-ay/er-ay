@@ -24,9 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemaysenur&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=erdemaysenur&" alt="erdemaysenur" /></p>
-
-
 
 ### Connect:
 <p align="left">
