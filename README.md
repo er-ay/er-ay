@@ -6,14 +6,14 @@
 - I'm a data science bootcamp student and my goal is to evolve this process into a professional occupy.
 - I love to contribute in any way to communities so, now I'm volunteer assistant @Patika.dev in a programme that we have meetings, weekly code assessments, interview simulations 🙌🏻
 - Also in a beta tester team that helps to make [Patika](https://patika.dev) better ❤️
-- Currently, I'm studying sequence models, 🤗 transformers, and hopeful to learn PyTorch after these.
+- Currently, I'm studying language models, 🤗 transformers, and hopeful to learn PyTorch after these.
 
 ![](https://media.giphy.com/media/VHMuWhPNHPrXgNvEkA/giphy-downsized.gif)
 
 
 
 ### Tools & technologies
-<img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/py.png" title="python" alt="python"/><img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/psql.png" title="postgresql" alt="postgresql"/><img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/html5.png" title="html5" alt="html5"/><img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/css3.png" title="css3" alt="css3"/>
+<img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/py.png" title="python" alt="python"/>    <img src="https://github.com/erdemaysenur/erdemaysenur/blob/main/icons/pd.png" title="pandas" alt="pandas"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/np.png" title="numpy" alt="numpy"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/plt.png" title="pyplot" alt="plt"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/sns.png" title="seaborn" alt="sns"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/sk.png" title="sklearn" alt="sklearn"/>    <img src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.1c19d88dac.svg" height=70>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/keras.png" title="keras" alt="keras"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/jupyter.png" title="jupyter" alt="jupyter"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/psql.png" title="postgresql" alt="postgresql"/>
 
 
 
