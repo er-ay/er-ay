@@ -4,8 +4,7 @@
 - I'm a simple electrical and electronics engineer making her way through machine learning*[~](https://www.youtube.com/watch?v=rS-XWtERVwY)
 
 - I'm a data science bootcamp student and my goal is to evolve this process into a professional occupy.
-- I love to contribute in any way to communities so, now I'm volunteer assistant @Patika.dev in a programme that we have meetings, weekly code assessments, interview simulations 🙌🏻
-- Also in a beta tester team that helps to make [Patika](https://patika.dev) better ❤️
+ 
 - Currently, I'm studying language models, 🤗 transformers, and hopeful to learn PyTorch after these.
 
 ![](https://media.giphy.com/media/VHMuWhPNHPrXgNvEkA/giphy-downsized.gif)
