@@ -4,8 +4,8 @@
  
 
 ![](https://media.giphy.com/media/VHMuWhPNHPrXgNvEkA/giphy-downsized.gif)
-
-
+<p align=center>Junior Automation Developer</p>
+ 
 <!--
 ### Tools & technologies
 <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/py.png" title="python" alt="python"/>    <img src="https://github.com/erdemaysenur/erdemaysenur/blob/main/icons/pd.png" title="pandas" alt="pandas"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/np.png" title="numpy" alt="numpy"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/plt.png" title="pyplot" alt="plt"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/sns.png" title="seaborn" alt="sns"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/sk.png" title="sklearn" alt="sklearn"/>    <img src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.1c19d88dac.svg" height=70>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/keras.png" title="keras" alt="keras"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/jupyter.png" title="jupyter" alt="jupyter"/>    <img src="https://raw.githubusercontent.com/erdemaysenur/erdemaysenur/master/icons/psql.png" title="postgresql" alt="postgresql"/>
