@@ -4,7 +4,7 @@
  
 
 ![](https://media.giphy.com/media/VHMuWhPNHPrXgNvEkA/giphy-downsized.gif)
-<p align=center>Junior Automation Developer</p>
+<p align=center>Automation Developer</p>
  
 <!--
 ### Tools & technologies
